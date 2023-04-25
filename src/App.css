@@ -1,0 +1,7 @@
+.form-control{
+  @apply w-full border-2 outline-none rounded p-2 border-gray-200 focus:border-cyan-500 focus:ring-2 focus:ring-cyan-500
+}
+
+.form-control-danger{
+ @apply w-full border-2 outline-none rounded p-2 border-red-500 focus:border-red-500 focus:ring-2 focus:ring-red-500
+}
